@@ -1,9 +1,11 @@
 # Attendance-with-Face-Recognition
+
 A Python application that marks attendance by scanning their face
 
 -------------RUNS ONLY ON WINDOWS--------------------
 
 REQUIREMENTS:-
+
 -> opencv-python module and modules it requires
 
 -> face_recognition module and modules it requies
@@ -13,10 +15,15 @@ REQUIREMENTS:-
 -----------------------------------------------------
 
 HOW TO USE:-
+
 -> Start the application with attendance.bat
+
 -> Press l to open the login box
+
 -> Press q to exit the preview
+
 -> Enter your name and Register your face
+
 -> Click Login to mark the attendance
 
 -----------------------------------------------------
