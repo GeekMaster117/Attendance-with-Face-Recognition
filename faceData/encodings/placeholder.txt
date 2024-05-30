@@ -1,0 +1,1 @@
+This file enables the folder 'encodings' to be in git, as git cannot have empty folders
