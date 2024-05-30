@@ -8,7 +8,7 @@ REQUIREMENTS:-
 
 -> opencv-python module and modules it requires
 
--> face_recognition module and modules it requies
+-> face_recognition module and modules it requires
 
 -> shutil module and any modules it requires
 
